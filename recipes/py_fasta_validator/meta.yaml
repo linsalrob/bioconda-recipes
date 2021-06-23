@@ -38,7 +38,7 @@ about:
   home: "https://github.com/linsalrob/py_fasta_validator"
   license: MIT
   license_family: MIT
-  summary: "Simply and quickly validate a fasta file. Invalid files return non-zero exit codes"
+  summary: "Simply and quickly validate a fasta file in python. Invalid files return non-zero exit codes"
   doc_url: "https://github.com/linsalrob/py_fasta_validator"
   dev_url: "https://github.com/linsalrob/py_fasta_validator"
 
